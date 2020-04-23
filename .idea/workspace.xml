@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fc0cb86-545b-42b4-a0da-0c906f3fb7f4" name="Default Changelist" comment="" />
+    <list default="true" id="5fc0cb86-545b-42b4-a0da-0c906f3fb7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1axibmDy8DmCSBvJEh0YyIpGhxz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,10 +58,33 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="270" y="93" key="#Inspections" timestamp="1587685323123">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="270" y="93" key="#Inspections/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1587685323123" />
     <state x="270" y="93" key="#Project_Structure" timestamp="1587683736770">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="270" y="93" key="#Project_Structure/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1587683736770" />
+    <state x="205" y="123" width="930" height="609" key="DiffContextDialog" timestamp="1587685496878">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="205" y="123" width="930" height="609" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1587685496878" />
+    <state x="335" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1587685187412">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="335" y="172" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1587685187412" />
   </component>
 </project>
